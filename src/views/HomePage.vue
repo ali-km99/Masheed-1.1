@@ -83,7 +83,7 @@
     <div class="p-4 m-4">
       <h1 class="text-6xl text-red-600 font-semibold">01</h1>
       <h1 class="text-6xl text-white font-semibold">من نحن ؟</h1>
-      <p class="text-white w-1/3 mt-4 leading-loose text-lg">
+      <p class="text-white lg:w-1/3 mt-4 leading-loose text-lg">
         شركة المشيد هي شركة ليبية متخصصة في مجال البتروكيماويات، النفط والغاز، والقطاعات الصناعية
         المختلفة. نتميز بتقديم حلول هندسية متطورة بجودة عالية، بالتعاون مع أفضل الشركات العالمية.
         هدفنا تلبية متطلبات السوق عبر شبكة توزيع تغطي مختلف المدن الليبية.
